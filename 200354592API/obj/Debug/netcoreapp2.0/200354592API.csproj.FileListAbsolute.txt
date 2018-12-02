@@ -1,0 +1,11 @@
+D:\Client Documents\Harleen Canada\200354592API\200354592API\bin\Debug\netcoreapp2.0\200354592API.deps.json
+D:\Client Documents\Harleen Canada\200354592API\200354592API\bin\Debug\netcoreapp2.0\200354592API.runtimeconfig.json
+D:\Client Documents\Harleen Canada\200354592API\200354592API\bin\Debug\netcoreapp2.0\200354592API.runtimeconfig.dev.json
+D:\Client Documents\Harleen Canada\200354592API\200354592API\bin\Debug\netcoreapp2.0\200354592API.dll
+D:\Client Documents\Harleen Canada\200354592API\200354592API\bin\Debug\netcoreapp2.0\200354592API.pdb
+D:\Client Documents\Harleen Canada\200354592API\200354592API\obj\Debug\netcoreapp2.0\200354592API.csprojAssemblyReference.cache
+D:\Client Documents\Harleen Canada\200354592API\200354592API\obj\Debug\netcoreapp2.0\200354592API.csproj.CoreCompileInputs.cache
+D:\Client Documents\Harleen Canada\200354592API\200354592API\obj\Debug\netcoreapp2.0\200354592API.AssemblyInfoInputs.cache
+D:\Client Documents\Harleen Canada\200354592API\200354592API\obj\Debug\netcoreapp2.0\200354592API.AssemblyInfo.cs
+D:\Client Documents\Harleen Canada\200354592API\200354592API\obj\Debug\netcoreapp2.0\200354592API.dll
+D:\Client Documents\Harleen Canada\200354592API\200354592API\obj\Debug\netcoreapp2.0\200354592API.pdb
